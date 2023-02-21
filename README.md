@@ -2,6 +2,7 @@
 A 3D printed bullet casing sorter for separating 9mm from .380 
 
 POC video - https://youtu.be/RARQG4GygJQ
+
 This project is not in a tested nor final form, expect things to change as problems are identified and addressed. 
 
 Here is a list of all of the non-printed parts I have used for this project:
