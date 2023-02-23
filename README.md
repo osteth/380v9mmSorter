@@ -22,6 +22,13 @@ Wire - https://www.amazon.com/gp/product/B07F111X9J/ref=ppx_yo_dt_b_asin_title_o
 
 Power adapter - https://www.amazon.com/gp/product/B08GCMJH31/ref=ppx_yo_dt_b_asin_title_o06_s01?ie=UTF8&psc=1
 
+Power Switch - https://www.amazon.com/gp/product/B0BCV7V3RQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
+
+Please note that I made a decent effort to make things parametric and I definitly failed on the sorter body
+but I redesigned the enclosure so that it is fully parametric to endusre that people could easily swap in 
+different power jacks, buttons, etc. with ease. I built mine using all parts I had laying arround from other projects
+and wanted to ensure that the greatest number of people could do the same. 
+
 ### Hardware
 M3 hardware is used everywhere expect on the motor. M2 is used on the motor both for mounting and as a cross pin
  to hold the wheel to the motor shaft.
