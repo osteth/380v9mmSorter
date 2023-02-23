@@ -24,6 +24,14 @@ Power adapter - https://www.amazon.com/gp/product/B08GCMJH31/ref=ppx_yo_dt_b_asi
 
 Power Switch - https://www.amazon.com/gp/product/B0BCV7V3RQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
 
+Tenetive Addition:
+RC car shock absorber - https://www.amazon.com/gp/product/B0BLC4NCK9/ref=ewc_pr_img_3?smid=AJ0RJEXY6CYX2&psc=1
+
+I am experiencing an intermitant feed failure where the case does not fall in time and gets mashed by the plunger. 
+I have ordered a couple of these shock absorbers to replace the crank shaft to see if I can remedy the failure by 
+allowing the motor to complete its rotation by compressing the shock absorber I hope this will additionally prevent 
+the machine from breaking itself or from deforming the jammed case. 
+
 Please note that I made a decent effort to make things parametric and I definitly failed on the sorter body
 but I redesigned the enclosure so that it is fully parametric to endusre that people could easily swap in 
 different power jacks, buttons, etc. with ease. I built mine using all parts I had laying arround from other projects
